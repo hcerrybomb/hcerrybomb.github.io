@@ -12,6 +12,7 @@
 
 ## Add social links
 - Facebook, Twitter, Soundcloud, bandcamp, lastfm (lastfm listening embed/webscrape)
+- Finn, / Plater / utstyr til salgs(?)
 
 ## Gallery(?)
 - Picture gallery
