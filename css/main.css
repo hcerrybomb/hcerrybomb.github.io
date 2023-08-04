@@ -1,0 +1,40 @@
+*{box-sizing: border-box;
+    margin:0;
+    padding:0;}
+html {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;    
+    height: 100%;
+    width: 100%;
+}
+html:focus{
+    outline: none !important;
+}
+body{
+    height: 100%;
+    width:100%;
+}
+main{
+    height:100%;
+    width:100%;
+    background-image: url("../imgs/bg/1080pbg.jpg"), url("../imgs/bg/fullresbg.jpg");
+    background-size: cover;
+    background-position: bottom right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:2%;
+}
+title{
+    display: block;
+    color: antiquewhite;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
